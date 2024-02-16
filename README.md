@@ -2,11 +2,11 @@
 
 ---
 
-[镜像整站 代码](https://raw.githubusercontent.com/wlc743859910/Cloudflare_Workers_Mirror/master/镜像整站 代码.txt)
+[镜像整站 代码](https://raw.githubusercontent.com/wlc743859910/Cloudflare_Workers_Mirror/master/%E9%95%9C%E5%83%8F%E6%95%B4%E7%AB%99%20%E4%BB%A3%E7%A0%81.txt)
 
-[镜像指定目录 代码](https://raw.githubusercontent.com/wlc743859910/Cloudflare_Workers_Mirror/master/镜像指定目录 代码.txt)
+[镜像指定目录 代码](https://raw.githubusercontent.com/wlc743859910/Cloudflare_Workers_Mirror/master/%E9%95%9C%E5%83%8F%E6%8C%87%E5%AE%9A%E7%9B%AE%E5%BD%95%20%E4%BB%A3%E7%A0%81.txt)
 
-[镜像整站并加设密码访问 代码](https://raw.githubusercontent.com/wlc743859910/Cloudflare_Workers_Mirror/master/镜像整站并加设密码访问 代码.txt)
+[镜像整站并加设密码访问 代码](https://raw.githubusercontent.com/wlc743859910/Cloudflare_Workers_Mirror/master/%E9%95%9C%E5%83%8F%E6%95%B4%E7%AB%99%E5%B9%B6%E5%8A%A0%E8%AE%BE%E5%AF%86%E7%A0%81%E8%AE%BF%E9%97%AE%20%E4%BB%A3%E7%A0%81.txt)
 
 ---
 
