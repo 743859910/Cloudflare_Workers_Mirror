@@ -2,6 +2,14 @@
 
 ---
 
+[镜像整站 代码](https://raw.githubusercontent.com/wlc743859910/Cloudflare_Workers_Mirror/master/镜像整站 代码.txt)
+
+[镜像指定目录 代码](https://raw.githubusercontent.com/wlc743859910/Cloudflare_Workers_Mirror/master/镜像指定目录 代码.txt)
+
+[镜像整站并加设密码访问 代码](https://raw.githubusercontent.com/wlc743859910/Cloudflare_Workers_Mirror/master/镜像整站并加设密码访问 代码.txt)
+
+---
+
 <p align="center">
   <img src="https://raw.github.ink/wlc743859910/Cloudflare_Workers_Mirror/master/img/1.webp">
 </p>
@@ -28,7 +36,7 @@
 
 ---
 
-![PayPal](https://img.shields.io/badge/PayPal-%E5%90%91TA%E6%8D%90%E5%8A%A9-green.svg) [![QQ](https://img.shields.io/badge/QQ-%E5%90%91TA%E6%8D%90%E5%8A%A9-green.svg)](https://raw.github.ink/wlc743859910/wlc743859910/master/img/QQ.webp) [![微信](https://img.shields.io/badge/微信-%E5%90%91TA%E6%8D%90%E5%8A%A9-green.svg)](https://raw.github.ink/wlc743859910/wlc743859910/master/img/WX.webp) [![支付宝](https://img.shields.io/badge/支付宝-%E5%90%91TA%E6%8D%90%E5%8A%A9-green.svg)](https://raw.github.ink/wlc743859910/wlc743859910/master/img/ZFB.webp) [![爱发电](https://img.shields.io/badge/爱发电-%E5%90%91TA%E6%8D%90%E5%8A%A9-green.svg)](https://raw.github.ink/wlc743859910/wlc743859910/master/img/AFD.webp) [![赞赏码](https://img.shields.io/badge/赞赏码-%E5%90%91TA%E6%8D%90%E5%8A%A9-green.svg)](https://raw.github.ink/wlc743859910/wlc743859910/master/img/ZSM.webp) [![数字人民币](https://img.shields.io/badge/数字人民币-%E5%90%91TA%E6%8D%90%E5%8A%A9-green.svg)](https://raw.github.ink/wlc743859910/wlc743859910/master/img/SZRMB.webp)
+![PayPal](https://img.shields.io/badge/PayPal-%E5%90%91TA%E6%8D%90%E5%8A%A9-green.svg) [![QQ](https://img.shields.io/badge/QQ-%E5%90%91TA%E6%8D%90%E5%8A%A9-green.svg)](https://raw.github.ink/wlc743859910/Cloudflare_Workers_Mirror/master/img/QQ.webp) [![微信](https://img.shields.io/badge/微信-%E5%90%91TA%E6%8D%90%E5%8A%A9-green.svg)](https://raw.github.ink/wlc743859910/Cloudflare_Workers_Mirror/master/img/WX.webp) [![支付宝](https://img.shields.io/badge/支付宝-%E5%90%91TA%E6%8D%90%E5%8A%A9-green.svg)](https://raw.github.ink/wlc743859910/Cloudflare_Workers_Mirror/master/img/ZFB.webp) [![爱发电](https://img.shields.io/badge/爱发电-%E5%90%91TA%E6%8D%90%E5%8A%A9-green.svg)](https://raw.github.ink/wlc743859910/Cloudflare_Workers_Mirror/master/img/AFD.webp) [![赞赏码](https://img.shields.io/badge/赞赏码-%E5%90%91TA%E6%8D%90%E5%8A%A9-green.svg)](https://raw.github.ink/wlc743859910/Cloudflare_Workers_Mirror/master/img/ZSM.webp) [![数字人民币](https://img.shields.io/badge/数字人民币-%E5%90%91TA%E6%8D%90%E5%8A%A9-green.svg)](https://raw.github.ink/wlc743859910/Cloudflare_Workers_Mirror/master/img/SZRMB.webp)
 
 ---
 
